@@ -1,0 +1,18 @@
+{
+  "name": "com.bonfire.save-component",
+  "version": "0.1",
+  "displayName": "Save Component",
+  "description": "This package handles the game save process",
+  "unity": "2020.2",
+  "unityRelease": "3f1",
+  "dependencies": {},
+ "keywords": [
+    "persistence",
+    "save",
+    "save component"
+  ],
+  "author": {
+    "name": "Gaba",
+    "email": "gabrielfpaula@gmail.com"
+  }
+}
