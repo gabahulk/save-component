@@ -1,6 +1,6 @@
 {
   "name": "com.bonfire.save-component",
-  "version": "0.1",
+  "version": "0.0.0",
   "displayName": "Save Component",
   "description": "This package handles the game save process",
   "unity": "2020.2",
